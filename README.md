@@ -8,9 +8,8 @@ First Last - first.last@flatironschool.com - [Booking Link](https://oncehub.com)
 
 ## Helpful Links 
 
-1. [How to Join Learn Slack Workspace](https://help.learn.co/en/articles/492943-how-to-join-slack)
-2. [First Mile Checklist](#) 
-3. [Zoom link for 1:1's and Study Groups](#)
+1. [First Mile Checklist](#) 
+2. [Zoom link for 1:1's and Study Groups](#)
 
 ## Pairing Week 4
 
