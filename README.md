@@ -4,7 +4,7 @@
 Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.oncehub.com/CharlotteNeffFirstMilePODMeeting)
 
 ## Your Educational Coach: 
-Valerie Jiggetts - first.last@flatironschool.com - [Booking Link](https://oncehub.com)
+Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://oncehub.com)
 
 ## Helpful Links 
 
