@@ -4,21 +4,14 @@
 Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.oncehub.com/CharlotteNeffFirstMilePODMeeting)
 
 ## Your Educational Coach: 
-Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://oncehub.com)
+Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
 ## Helpful Links 
 
 1. [First Mile Checklist](https://docs.google.com/document/d/1So7XR7fEPxVAJp-bNqUH-_hMsNe9FYnFqbpGGcSPF58) 
 2. [Zoom link for Pod Meetings & Study Groups](https://flatironschool.zoom.us/j/4600097800?pwd=YXdEWWJXRnA5MjFBd0Zham9MYnVUUT09)
 
-## Pairing Week 4
-
-
-| Pair 1       | Pair 2       | Pair 3 |
-| ------------- |:-------------:| ---------- |
-| First Last   | First Last    | First Last |
-| First Last   | First Last    |
-| First Last   | First Last    |
+## Pairing (to be updated week 3)
 
 ## Any questions or issues please DM me. 
 
@@ -40,4 +33,4 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 |**Week 1**|
 | Orientation | [Video](https://drive.google.com/file/d/1BYtPr-m5MDtwaKICaxhPYkegjfQ_6ISw/view?usp=sharing) | [Quiz](https://forms.gle/EvjuWRGsyNrsPrKT8)|
 | Pair Programming| [Video](https://#)|[Quiz](https://#)|
-| If Statements/ Ternary Operators | [Video](https://#)| [Code](https://#)
+|
