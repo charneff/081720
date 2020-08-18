@@ -38,6 +38,6 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 1**|
-| Orientation | [Video](https://#) | [Quiz](https://#)|
+| Orientation | [Video](https://drive.google.com/file/d/1BYtPr-m5MDtwaKICaxhPYkegjfQ_6ISw/view?usp=sharing) | [Quiz](https://forms.gle/EvjuWRGsyNrsPrKT8)|
 | Pair Programming| [Video](https://#)|[Quiz](https://#)|
 | If Statements/ Ternary Operators | [Video](https://#)| [Code](https://#)
