@@ -34,5 +34,4 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Orientation | [Video](https://drive.google.com/file/d/1BYtPr-m5MDtwaKICaxhPYkegjfQ_6ISw/view?usp=sharing) | [Quiz](https://forms.gle/EvjuWRGsyNrsPrKT8)|
 | Lab Walkthrough: Methods + Arguments & Return Values | [Video](https://drive.google.com/file/d/1Pk0xguEg-5Ucl5yli4zoQX1Q_O8svO0T/view?usp=sharing)| [Puts v Print v P](https://www.rubyguides.com/2018/10/puts-vs-print/#:~:text=p%20is%20a%20method%20that,%3E%20p%20%22Ruby%20Is%20Cool%22) |
 | Lab Walkthrough: Using While & Until + Countdown to Midnight | [Video](https://drive.google.com/file/d/13ZZ66kn1wTspLTvlQ7FgYJn8KiWdXAd9/view?usp=sharing) |
-| Pair Programming| [Video](https://#)|[Quiz](https://#)|
-|
+| Pair Programming| [Video](https://drive.google.com/file/d/1v1Vmn7kT4tabur7FKHJt0NKFxQiPw7vL/view?usp=sharing)|[Quiz](https://forms.gle/EGyDRM3huQghePpH8)|
