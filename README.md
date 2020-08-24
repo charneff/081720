@@ -17,6 +17,23 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 2: August 24, 2020
+#### This week's focus:  First Mile (cont.)
+
+1. Day 1 (Mon) - Iteration (Iteration and Abstraction -  Each Lab)
+2. Day 2 (Tue) - Iteration Cont’d (Return from Yield Statements - Enumerators Code Challenge)
+3. Day 3 (Wed) - Iteration Cont’d (Prime? Lab - Sorting Lab) + Hashes (all)
+4. Day 4 (Thur) - Data Structures (all)
+5. Day 5 (Fri) - Intro to object orientation(all) + Classes and instances (all) + Instance Methods (all)
+
+
+# Study Group Videos and Code
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 2**|
+| Arrays & Iterations | [Video]() | []()|
+
 ### Week 1: August 17, 2020
 #### This week's focus:  First Mile
 
