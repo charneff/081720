@@ -32,7 +32,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 2**|
-| Arrays & Iterations | [Video]() | []()|
+| Arrays & Iterations | [Video](https://drive.google.com/file/d/1K0IJhHasPp-q9Z6_LX6mExKb07U1pH-l/view?usp=sharing) | | [Ruby Array Docs](https://ruby-doc.org/core-2.4.1/Array.html)|
 
 ### Week 1: August 17, 2020
 #### This week's focus:  First Mile
