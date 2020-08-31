@@ -11,11 +11,29 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 1. [First Mile Checklist](https://docs.google.com/document/d/1So7XR7fEPxVAJp-bNqUH-_hMsNe9FYnFqbpGGcSPF58) 
 2. [Zoom link for Pod Meetings & Study Groups](https://flatironschool.zoom.us/j/4600097800?pwd=YXdEWWJXRnA5MjFBd0Zham9MYnVUUT09)
 
-## Pairing (to be updated week 3)
+## Pairing (to be updated week 4)
 
 ## Any questions or issues please DM me. 
 
 # Weekly Assignments
+
+### Week 3: August 31, 2020
+#### This week's focus:  Object Orientation
+
+1. Day 1 (Mon) - Object Properties (up to Object Attributes Lesson) 
+2. Day 2 (Tue) - Object Properties (Object Attributes Lab - Video Review: Object Properties)
+3. Day 3 (Wed) - Object Lifecycle 
+4. Day 4 (Thur) - Object’s Self 
+5. Day 5 (Fri) - Class Variables and Methods
+
+
+# Study Group Videos and Code
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 3**|
+| Intro to Object Orientation |  | | |
+| Object Initialization & Object Properties |  | ||
 
 ### Week 2: August 24, 2020
 #### This week's focus:  First Mile (cont.)
