@@ -32,7 +32,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 3**|
-| Intro to Object Orientation |  | | |
+| Intro to Object Orientation | [Video](https://drive.google.com/file/d/1OMFOuDn4ko12ajuh_z9nMDsy1GHoTL1Q/view?usp=sharing) | | |
 | Object Initialization & Object Properties |  | ||
 
 ### Week 2: August 24, 2020
