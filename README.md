@@ -33,7 +33,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 3**|
 | Intro to Object Orientation | [Video](https://drive.google.com/file/d/1k3R0uqJxCxAi-42O0HFeDMFQ6neOEj_k/view?usp=sharing) | | |
-| Object Initialization & Object Properties |  | ||
+| Object Initialization & Object Properties | [Video](https://drive.google.com/file/d/13nHXdSGhsVwFN-vO_XmUTtBfx-Lmu5rc/view?usp=sharing) | ||
 
 ### Week 2: August 24, 2020
 #### This week's focus:  First Mile (cont.)
@@ -51,6 +51,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | ------------- |:-------------:| ----------- | ------------------- |
 |**Week 2**|
 | Arrays & Iterations | [Video](https://drive.google.com/file/d/1K0IJhHasPp-q9Z6_LX6mExKb07U1pH-l/view?usp=sharing) | | [Ruby Array Docs](https://ruby-doc.org/core-2.4.1/Array.html)|
+
 
 ### Week 1: August 17, 2020
 #### This week's focus:  First Mile
