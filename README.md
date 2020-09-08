@@ -13,9 +13,9 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 #### Pairing: 
 #### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing:
-# Tic Tac Toe
-# OO Cash Register
-# Collaborating Object Lab
+ Tic Tac Toe
+ OO Cash Register
+ Collaborating Object Lab
 |     Person 1       |    Person 2   | 
 | ------------- | ---------------| 
 | Jazmin Matos | Camryn Patterson |
