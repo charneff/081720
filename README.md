@@ -11,7 +11,36 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 1. [First Mile Checklist](https://docs.google.com/document/d/1So7XR7fEPxVAJp-bNqUH-_hMsNe9FYnFqbpGGcSPF58) 
 2. [Zoom link for Pod Meetings & Study Groups](https://flatironschool.zoom.us/j/4600097800?pwd=YXdEWWJXRnA5MjFBd0Zham9MYnVUUT09)
 
-## Pairing (to be updated week 4)
+## Pairing 
+|     1       |    2   | 
+| ------------- | ---------------| 
+| Jazmin Matos | Camryn Patterson |
+| Jeremy Wood | Ryan Altimari |
+| Jevoughn Wisdom | Alexander Sanchez |
+| Jocelyn Ramirez | Alexandra Oliveros |
+| Angelica Brantley | Justice Payne |
+| Anthony Hernandez | Ken Barlow |
+| Areeba Zahir | Kimberly Aviles |
+| Michael Adkins | Ashlen Mencia |
+| Aurora Avery | Mikel Bishop |
+| Noella Callahan | Brenda Ferrufino |
+| Christian Pardo | Oliver Bebber |
+| Preston Davis | Christopher Williams |
+| Corey Martin | Priscilla Leyva |
+| Rosa Carranza | Dario Carlino |
+| Dominic Barajas | Russell Doane |
+| Elizabeth Cobb | Sam Luongo |
+| Seth Jones | Ernsyka Methelus |
+| Taylor Sieling | Haidy Farahat |
+| Hailey Putnam | Teinelle Charles |
+| Theodore Schafer | Haley Grassi |
+| Hector Jimenez | Tim Flood |
+| Trey Jennings | Illiana Gallardo |
+| Vicki Mowbray | Jack Madden |
+| William Cao | Janae Quinones |
+| Jazmin Matos | William West |
+| Jason Markson | Camryn Patterson |
+
 
 ## Any questions or issues please DM me. 
 
@@ -31,7 +60,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-|**Week 2**|
+|**Week 4**|
 | Self + Class Variables/Methods | [Video]() | | |
 
 ### Week 3: August 31, 2020
