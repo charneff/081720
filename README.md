@@ -11,8 +11,12 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 1. [First Mile Checklist](https://docs.google.com/document/d/1So7XR7fEPxVAJp-bNqUH-_hMsNe9FYnFqbpGGcSPF58) 
 2. [Zoom link for Pod Meetings & Study Groups](https://flatironschool.zoom.us/j/4600097800?pwd=YXdEWWJXRnA5MjFBd0Zham9MYnVUUT09)
 
-## Pairing: 
-|     1       |    2   | 
+#### Pairing: 
+#### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing:
+# Tic Tac Toe
+# OO Cash Register
+# Collaborating Object Lab
+|     Person 1       |    Person 2   | 
 | ------------- | ---------------| 
 | Jazmin Matos | Camryn Patterson |
 | Jeremy Wood | Ryan Altimari |
@@ -38,8 +42,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Trey Jennings | Illiana Gallardo |
 | Vicki Mowbray | Jack Madden |
 | William Cao | Janae Quinones |
-| Jazmin Matos | William West |
-| Jason Markson | Camryn Patterson |
+| Jason Markson | William West |
 
 
 ## Any questions or issues please DM me. 
