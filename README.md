@@ -11,7 +11,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 1. [First Mile Checklist](https://docs.google.com/document/d/1So7XR7fEPxVAJp-bNqUH-_hMsNe9FYnFqbpGGcSPF58) 
 2. [Zoom link for Pod Meetings & Study Groups](https://flatironschool.zoom.us/j/4600097800?pwd=YXdEWWJXRnA5MjFBd0Zham9MYnVUUT09)
 
-## Pairing 
+## Pairing: 
 |     1       |    2   | 
 | ------------- | ---------------| 
 | Jazmin Matos | Camryn Patterson |
@@ -47,7 +47,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 # Weekly Assignments
 
 ### Week 4: September 7, 2020
-#### This week's focus:  First Mile (cont.)
+#### This week's focus:  Object Models and Relationships
 
 1. Day 1 (Mon) - Labor Day
 2. Day 2 (Tue) - Object Oriented Ruby: Object Models (5 Lessons)
