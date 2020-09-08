@@ -17,6 +17,23 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 4: September 7, 2020
+#### This week's focus:  First Mile (cont.)
+
+1. Day 1 (Mon) - Labor Day
+2. Day 2 (Tue) - Object Oriented Ruby: Object Models (5 Lessons)
+3. Day 3 (Wed) - Object Labs (3 Lessons) + OO Tic Tac Toe (2 Lessons)
+4. Day 4 (Thur) - Object Oriented Ruby: Object Relationships (Has Many Object Lab) (4 Lessons)
+5. Day 5 (Fri) - Object Oriented Ruby: Object Relationships (Collaborating Objects Review) (3 Lessons)
+
+
+# Study Group Videos and Code
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+|**Week 2**|
+| Self + Class Variables/Methods | [Video]() | | |
+
 ### Week 3: August 31, 2020
 #### This week's focus:  Object Orientation
 
