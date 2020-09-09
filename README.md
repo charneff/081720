@@ -63,7 +63,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Topic         | Video         | Code/Other | 
 | ------------- |:-------------:| ----------- | 
 |**Week 4**|
-| Self + Class Variables/Methods | [Video]() | | 
+| Self + Class Variables/Methods | [Video](https://drive.google.com/file/d/1xRuReKS24veRE3ZhLpEikPrV6JIzNj_I/view?usp=sharing) | | 
 
 ### Week 3: August 31, 2020
 #### This week's focus:  Object Orientation
