@@ -8,7 +8,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 ## Helpful Links 
 
-1. [First Mile Checklist](https://docs.google.com/document/d/1So7XR7fEPxVAJp-bNqUH-_hMsNe9FYnFqbpGGcSPF58) 
+1. [1 on 1 booking link](https://go.oncehub.com/CharlotteNeff11) 
 2. [Zoom link for Pod Meetings & Study Groups](https://flatironschool.zoom.us/j/4600097800?pwd=YXdEWWJXRnA5MjFBd0Zham9MYnVUUT09)
 
 #### Pairing: 
