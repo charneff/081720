@@ -48,6 +48,23 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 5: September 14, 2020
+#### This week's focus:  Object Models and Relationships
+
+1. Day 1 (Mon) - Object Oriented Ruby: Object Relationships (OO Banking) (3 Lessons)
+2. Day 2 (Tue) - Object Oriented Ruby: Object Relationships (Finish), Object Oriented Ruby: Object Architecture (Intro to Inheritance Lab) (4 Lessons)
+3. Day 3 (Wed) - Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
+4. Day 4 (Thur) - Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
+5. Day 5 (Fri) - Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
+
+
+# Study Group Videos and Code
+
+| Topic         | Video         | Code/Other | 
+| ------------- |:-------------:| ----------- | 
+|**Week 4**|
+| Object Relationships | [Video]() | | 
+
 ### Week 4: September 7, 2020
 #### This week's focus:  Object Models and Relationships
 
