@@ -63,7 +63,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Topic         | Video         | Code/Other | 
 | ------------- |:-------------:| ----------- | 
 |**Week 4**|
-| Object Relationships | [Video]() | | 
+| Object Relationships | [Video](https://drive.google.com/file/d/1Zi3nf6yBMK1vMSi-2FL6h37W59-UWc4_/view?usp=sharing) | | 
 
 ### Week 4: September 7, 2020
 #### This week's focus:  Object Models and Relationships
