@@ -15,9 +15,9 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 #### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: Music CLI, TTT w/ AI, Student Scraper
 
 
-|     1       |    2   |   3   |
+|     1       |    2   |
 | ------------- | ---------------| 
-| Taylor Sieling | Dario Carlino | Aurora Avery |
+| Taylor Sieling | Dario Carlino | 
 | Justice Payne | Hailey Putnam |
 | Mikel Bishop | Haidy Farahat |
 | Tim Flood | Ernyska Methelus |
