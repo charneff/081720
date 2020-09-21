@@ -6,11 +6,6 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 ## Your Educational Coach: 
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
-## Helpful Links 
-
-1. [1 on 1 booking link](https://go.oncehub.com/CharlotteNeff11) 
-2. [Zoom link for Pod Meetings & Study Groups](https://flatironschool.zoom.us/j/4600097800?pwd=YXdEWWJXRnA5MjFBd0Zham9MYnVUUT09)
-
 #### Pairing: 
 #### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: Music CLI, TTT w/ AI, Student Scraper
 
