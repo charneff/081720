@@ -17,7 +17,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 |     1       |    2   |  3   |
 | ------------- | ---------------| --------------- |
-| Taylor Sieling | Dario Carlino | 
+| Taylor Sieling | Dario Carlino | Aurora Avery |
 | Justice Payne | Hailey Putnam |
 | Mikel Bishop | Haidy Farahat |
 | Tim Flood | Ernyska Methelus |
