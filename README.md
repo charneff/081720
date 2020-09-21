@@ -12,44 +12,52 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 2. [Zoom link for Pod Meetings & Study Groups](https://flatironschool.zoom.us/j/4600097800?pwd=YXdEWWJXRnA5MjFBd0Zham9MYnVUUT09)
 
 #### Pairing: 
-#### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: OO Banking, OO Triangle
+#### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: Music CLI, TTT w/ AI, Student Scraper
 
 
-|     1       |    2   | 
+|     1       |    2   |   3   |
 | ------------- | ---------------| 
-| Jazmin Matos | Camryn Patterson |
-| Jeremy Wood | Ryan Altimari |
-| Jevoughn Wisdom | Alexander Sanchez |
-| Jocelyn Ramirez | Alexandra Oliveros |
-| Angelica Brantley | Justice Payne |
-| Anthony Hernandez | Ken Barlow |
-| Areeba Zahir | Kimberly Aviles |
-| Michael Adkins | Ashlen Mencia |
-| Aurora Avery | Mikel Bishop |
-| Noella Callahan | Brenda Ferrufino |
-| Christian Pardo | Oliver Bebber |
-| Preston Davis | Christopher Williams |
-| Corey Martin | Priscilla Leyva |
-| Rosa Carranza | Dario Carlino |
-| Dominic Barajas | Russell Doane |
-| Elizabeth Cobb | Sam Luongo |
-| Seth Jones | Ernsyka Methelus |
-| Taylor Sieling | Haidy Farahat |
-| Hailey Putnam | Teinelle Charles |
-| Theodore Schafer | Haley Grassi |
-| Hector Jimenez | Tim Flood |
-| Trey Jennings | Illiana Gallardo |
-| Vicki Mowbray | Jack Madden |
-| William Cao | Janae Quinones |
-| Jason Markson | William West |
+| Taylor Sieling | Dario Carlino | Aurora Avery |
+| Justice Payne | Hailey Putnam |
+| Mikel Bishop | Haidy Farahat |
+| Tim Flood | Ernyska Methelus |
+| Vicki Mowbray | Corey Martin |
+| Sam Luongo | Jason Markson |
+| Jazmin Matos | Alexandra Oliveros |
+| William Cao | Hector Jimenez |
+| Trey Jennings | Alexander Sanchez |
+| Jack Madden | Oliver Bebber |
+| Kim Aviles | Christopher Williams |
+| Ken Barlow | Haley Grassi |
+| William West | Dominic Barajas |
+| Jevoughn Wisdom | Ashlen Mencia |
+| Preston Davis | Illiana Gallardo |
+| Michael Adkins | Elizabeth Cobb |
+| Russell Doane | Camryn Patterson |
+| Noella Callahan | Christian Pardo |
+| Jeremy Wood | Anthony Hernandez |
+| Theodore Schafer | Brenda Ferrufino |
+| Jocelyn Ramirez | Janae Quinones |
+| Rosa Carranza | Angelica Brantley |
+| Priscilla Leyva | Areeba Zahir |
+| Teinelle Charles | Ryan Altimari |
 
 
-## Any questions or issues please DM me. 
+## Any questions or issues please DM me.
 
 # Weekly Assignments
 
+### Week 6: September 21, 2020
+#### This week's focus:  Scraping, Getting Remote Data, & Project Prep
+
+1. Day 1 (Mon) - Object Oriented Ruby: Scraping (Scraping Lab) (3 Lessons)
+2. Day 2 (Tue) - Object Oriented Ruby: Scraping (Finish), Getting Data From Remote Sources (Sending GET Requests)(4 lessons)
+3. Day 3 (Wed) - Object Oriented Ruby: Getting Data From Remote Sources (Finish) (4 Lessons)
+4. Day 4 (Thur) - Object Oriented Ruby: Final Projects (finish Music Library CLI) (1 lessons)
+5. Day 5 (Fri) - Object Oriented Ruby: Final Projects (TTT with AI, Student Scraper) (2 lessons)
+
 ### Week 5: September 14, 2020
-#### This week's focus:  Object Models and Relationships
+#### This week's focus:  Object Models, Relationships, & Architecture
 
 1. Day 1 (Mon) - Object Oriented Ruby: Object Relationships (OO Banking) (3 Lessons)
 2. Day 2 (Tue) - Object Oriented Ruby: Object Relationships (Finish), Object Oriented Ruby: Object Architecture (Intro to Inheritance Lab) (4 Lessons)
