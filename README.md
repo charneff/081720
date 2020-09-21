@@ -72,7 +72,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | ------------- |:-------------:| ----------- | 
 |**Week 5**|
 | Object Relationships | [Video](https://drive.google.com/file/d/1Zi3nf6yBMK1vMSi-2FL6h37W59-UWc4_/view?usp=sharing) | | 
-| Accessing Data from Remote Sources(APIs)/Build Pt 1 | [Video](https://drive.google.com/file/d/1f8gfqQl4yVxdjCiJYpXfYUPkMaWpRfFB/view?usp=sharing) | [Video] (https://github.com/charneff/cli_demo) |
+| Accessing Data from Remote Sources(APIs)/Build Pt 1 | [Video](https://drive.google.com/file/d/1f8gfqQl4yVxdjCiJYpXfYUPkMaWpRfFB/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
 
 ### Week 4: September 7, 2020
 #### This week's focus:  Object Models and Relationships
