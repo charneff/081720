@@ -42,6 +42,12 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 7 + 8: Project Mode
+Submit your project using the lesson named 'CLI Data Gem Portfolio Project'
+Use the link below to schedule only when you have submitted your video walkthrough, blog, and github repository.
+[Review Booking Link](https://go.oncehub.com/StructuredProgramCLIProjectReviews)
+
+
 ### Week 6: September 21, 2020
 #### This week's focus:  Scraping, Getting Remote Data, & Project Prep
 
