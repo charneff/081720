@@ -9,7 +9,6 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 #### Pairing: 
 #### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: Music CLI, TTT w/ AI, Student Scraper
 
-
 |     1       |    2   |  3   |
 | ------------- | ---------------| --------------- |
 | Taylor Sieling | Dario Carlino | Aurora Avery |
@@ -42,14 +41,14 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
-### Week 9: SQL
-Day 1 -  Indigenous People's Day
-Day 2 - SQL: Topic Introduction, SQL: Getting Started (SQL Databases And Text Editors) (4 lessons)
-Day 3 - SQL: Getting Started (Basic SQL Queries) (6 lessons)
-Day 4 - SQL: Table Relations (SQL Join Tables) (5 lessons)
-Day 5 - SQL: Table Relations (Finish) (4 lessons)
+### Week 9: October 12, 2020
+#### This week's focus: SQL
 
-
+1. Day 1 -  Indigenous People's Day
+2. Day 2 - SQL: Topic Introduction, SQL: Getting Started (SQL Databases And Text Editors) (4 lessons)
+3. Day 3 - SQL: Getting Started (Basic SQL Queries) (6 lessons)
+4. Day 4 - SQL: Table Relations (SQL Join Tables) (5 lessons)
+5. Day 5 - SQL: Table Relations (Finish) (4 lessons)
 
 
 ### Week 7 + 8: Project Mode
