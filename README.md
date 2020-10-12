@@ -42,6 +42,16 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 9: SQL
+Day 1 -  Indigenous People's Day
+Day 2 - SQL: Topic Introduction, SQL: Getting Started (SQL Databases And Text Editors) (4 lessons)
+Day 3 - SQL: Getting Started (Basic SQL Queries) (6 lessons)
+Day 4 - SQL: Table Relations (SQL Join Tables) (5 lessons)
+Day 5 - SQL: Table Relations (Finish) (4 lessons)
+
+
+
+
 ### Week 7 + 8: Project Mode
 Submit your project using the lesson named 'CLI Data Gem Portfolio Project'
 Use the link below to schedule only when you have submitted your video walkthrough, blog, and github repository.
