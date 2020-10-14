@@ -55,7 +55,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Topic         | Video         | Code/Other | 
 | ------------- |:-------------:| ----------- | 
 |**Week 9**|
-| Intro to SQL | [Video](https://drive.google.com/file/d/1OMFOuDn4ko12ajuh_z9nMDsy1GHoTL1Q/view?usp=sharing) | [Slide Show](https://docs.google.com/presentation/d/1Jdf-ZfyNVswxPctlWLEeVo32GY0Aid8uuWINhBPEHsI/edit#slide=id.p) | 
+| Intro to SQL | [Video](https://drive.google.com/file/d/1FAy546-JXw3HqXjKGC6HTMFmX-jtNmZ6/view?usp=sharing) | [Slide Show](https://docs.google.com/presentation/d/1Jdf-ZfyNVswxPctlWLEeVo32GY0Aid8uuWINhBPEHsI/edit#slide=id.p) | 
 
 
 
