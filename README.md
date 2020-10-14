@@ -7,7 +7,7 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
 #### Pairing: 
-#### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: Music CLI, TTT w/ AI, Student Scraper
+#### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: SQL Bear Organizer Lab or SQL Crowdfunding Lab
 
 |     1       |    2   |  3   |
 | ------------- | ---------------| --------------- |
@@ -50,6 +50,14 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 4. Day 4 - SQL: Table Relations (SQL Join Tables) (5 lessons)
 5. Day 5 - SQL: Table Relations (Finish) (4 lessons)
 
+# Study Group Videos and Code
+
+| Topic         | Video         | Code/Other | 
+| ------------- |:-------------:| ----------- | 
+|**Week 9**|
+| Intro to SQL | [Video](https://drive.google.com/file/d/1OMFOuDn4ko12ajuh_z9nMDsy1GHoTL1Q/view?usp=sharing) | [Slide Show](https://docs.google.com/presentation/d/1Jdf-ZfyNVswxPctlWLEeVo32GY0Aid8uuWINhBPEHsI/edit#slide=id.p) | 
+
+
 
 ### Week 7 + 8: Project Mode
 Submit your project using the lesson named 'CLI Data Gem Portfolio Project'
@@ -66,6 +74,15 @@ Use the link below to schedule only when you have submitted your video walkthrou
 4. Day 4 (Thur) - Object Oriented Ruby: Final Projects (finish Music Library CLI) (1 lessons)
 5. Day 5 (Fri) - Object Oriented Ruby: Final Projects (TTT with AI, Student Scraper) (2 lessons)
 
+# Study Group Videos and Code
+
+| Topic         | Video         | Code/Other | 
+| ------------- |:-------------:| ----------- | 
+|**Week 5 + 6**|
+| Object Relationships | [Video](https://drive.google.com/file/d/1Zi3nf6yBMK1vMSi-2FL6h37W59-UWc4_/view?usp=sharing) | | 
+| Accessing Data from Remote Sources(APIs)/Build Pt 1 | [Video](https://drive.google.com/file/d/1f8gfqQl4yVxdjCiJYpXfYUPkMaWpRfFB/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
+| CLI Project Build pt 2 | [Video](https://drive.google.com/file/d/1KW_4S8HA7tPvA3ZiRJgRrnZCn3cjDIRf/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
+
 ### Week 5: September 14, 2020
 #### This week's focus:  Object Models, Relationships, & Architecture
 
@@ -80,7 +97,7 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 | Topic         | Video         | Code/Other | 
 | ------------- |:-------------:| ----------- | 
-|**Week 5**|
+|**Week 5 + 6 **|
 | Object Relationships | [Video](https://drive.google.com/file/d/1Zi3nf6yBMK1vMSi-2FL6h37W59-UWc4_/view?usp=sharing) | | 
 | Accessing Data from Remote Sources(APIs)/Build Pt 1 | [Video](https://drive.google.com/file/d/1f8gfqQl4yVxdjCiJYpXfYUPkMaWpRfFB/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
 | CLI Project Build pt 2 | [Video](https://drive.google.com/file/d/1KW_4S8HA7tPvA3ZiRJgRrnZCn3cjDIRf/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
