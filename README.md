@@ -56,6 +56,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | ------------- |:-------------:| ----------- | 
 |**Week 9**|
 | Intro to SQL | [Video](https://drive.google.com/file/d/1FAy546-JXw3HqXjKGC6HTMFmX-jtNmZ6/view?usp=sharing) | [Slide Show](https://docs.google.com/presentation/d/1Jdf-ZfyNVswxPctlWLEeVo32GY0Aid8uuWINhBPEHsI/edit#slide=id.p) | 
+| Hot Potato SQL Bear Organizer | [Video](https://www.youtube.com/watch?v=hHq1yRhhZl8&feature=youtu.be) |  | 
 
 
 
