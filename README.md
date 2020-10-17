@@ -167,10 +167,24 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 # Study Group Videos and Code
 
-| Topic         | Video         | Code/Other | Repl/other resources|
-| ------------- |:-------------:| ----------- | ------------------- |
+| Topic         | Video         | Code/Other |
+| ------------- |:-------------:| ----------- |
+|**Week 9**|
+| Intro to SQL | [Video](https://drive.google.com/file/d/1FAy546-JXw3HqXjKGC6HTMFmX-jtNmZ6/view?usp=sharing) | [Slide Show](https://docs.google.com/presentation/d/1Jdf-ZfyNVswxPctlWLEeVo32GY0Aid8uuWINhBPEHsI/edit#slide=id.p) | 
+| Hot Potato SQL Bear Organizer | [Video](https://www.youtube.com/watch?v=hHq1yRhhZl8&feature=youtu.be) |  | 
+|**Week 5 + 6**|
+| Object Relationships | [Video](https://drive.google.com/file/d/1Zi3nf6yBMK1vMSi-2FL6h37W59-UWc4_/view?usp=sharing) | | 
+| Accessing Data from Remote Sources(APIs)/Build Pt 1 | [Video](https://drive.google.com/file/d/1f8gfqQl4yVxdjCiJYpXfYUPkMaWpRfFB/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
+| CLI Project Build pt 2 | [Video](https://drive.google.com/file/d/1KW_4S8HA7tPvA3ZiRJgRrnZCn3cjDIRf/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
+|**Week 4**|
+| Self + Class Variables/Methods | [Video](https://drive.google.com/file/d/1xRuReKS24veRE3ZhLpEikPrV6JIzNj_I/view?usp=sharing) | | 
+|**Week 3**|
+| Intro to Object Orientation | [Video](https://drive.google.com/file/d/1k3R0uqJxCxAi-42O0HFeDMFQ6neOEj_k/view?usp=sharing) | | 
+| Object Initialization & Object Properties | [Video](https://drive.google.com/file/d/13nHXdSGhsVwFN-vO_XmUTtBfx-Lmu5rc/view?usp=sharing) | |
+|**Week 2**|
+| Arrays & Iterations | [Video](https://drive.google.com/file/d/1K0IJhHasPp-q9Z6_LX6mExKb07U1pH-l/view?usp=sharing)| [Ruby Array Docs](https://ruby-doc.org/core-2.4.1/Array.html)|
 |**Week 1**|
 | Orientation | [Video](https://drive.google.com/file/d/1BYtPr-m5MDtwaKICaxhPYkegjfQ_6ISw/view?usp=sharing) | [Quiz](https://forms.gle/EvjuWRGsyNrsPrKT8)|
 | Lab Walkthrough: Methods + Arguments & Return Values | [Video](https://drive.google.com/file/d/1Pk0xguEg-5Ucl5yli4zoQX1Q_O8svO0T/view?usp=sharing)| [Puts v Print v P](https://www.rubyguides.com/2018/10/puts-vs-print/#:~:text=p%20is%20a%20method%20that,%3E%20p%20%22Ruby%20Is%20Cool%22) |
-| Lab Walkthrough: Using While & Until + Countdown to Midnight | [Video](https://drive.google.com/file/d/13ZZ66kn1wTspLTvlQ7FgYJn8KiWdXAd9/view?usp=sharing) |
+| Lab Walkthrough: Using While & Until + Countdown to Midnight | [Video](https://drive.google.com/file/d/13ZZ66kn1wTspLTvlQ7FgYJn8KiWdXAd9/view?usp=sharing) | |
 | Pair Programming| [Video](https://drive.google.com/file/d/1v1Vmn7kT4tabur7FKHJt0NKFxQiPw7vL/view?usp=sharing)|[Quiz](https://forms.gle/EGyDRM3huQghePpH8)|
