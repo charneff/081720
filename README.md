@@ -50,21 +50,10 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 4. Day 4 - SQL: Table Relations (SQL Join Tables) (5 lessons)
 5. Day 5 - SQL: Table Relations (Finish) (4 lessons)
 
-# Study Group Videos and Code
-
-| Topic         | Video         | Code/Other | 
-| ------------- |:-------------:| ----------- | 
-|**Week 9**|
-| Intro to SQL | [Video](https://drive.google.com/file/d/1FAy546-JXw3HqXjKGC6HTMFmX-jtNmZ6/view?usp=sharing) | [Slide Show](https://docs.google.com/presentation/d/1Jdf-ZfyNVswxPctlWLEeVo32GY0Aid8uuWINhBPEHsI/edit#slide=id.p) | 
-| Hot Potato SQL Bear Organizer | [Video](https://www.youtube.com/watch?v=hHq1yRhhZl8&feature=youtu.be) |  | 
-
-
-
 ### Week 7 + 8: Project Mode
 Submit your project using the lesson named 'CLI Data Gem Portfolio Project'
 Use the link below to schedule only when you have submitted your video walkthrough, blog, and github repository.
 [Review Booking Link](https://go.oncehub.com/StructuredProgramCLIProjectReviews)
-
 
 ### Week 6: September 21, 2020
 #### This week's focus:  Scraping, Getting Remote Data, & Project Prep
@@ -75,15 +64,6 @@ Use the link below to schedule only when you have submitted your video walkthrou
 4. Day 4 (Thur) - Object Oriented Ruby: Final Projects (finish Music Library CLI) (1 lessons)
 5. Day 5 (Fri) - Object Oriented Ruby: Final Projects (TTT with AI, Student Scraper) (2 lessons)
 
-# Study Group Videos and Code
-
-| Topic         | Video         | Code/Other | 
-| ------------- |:-------------:| ----------- | 
-|**Week 5 + 6**|
-| Object Relationships | [Video](https://drive.google.com/file/d/1Zi3nf6yBMK1vMSi-2FL6h37W59-UWc4_/view?usp=sharing) | | 
-| Accessing Data from Remote Sources(APIs)/Build Pt 1 | [Video](https://drive.google.com/file/d/1f8gfqQl4yVxdjCiJYpXfYUPkMaWpRfFB/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
-| CLI Project Build pt 2 | [Video](https://drive.google.com/file/d/1KW_4S8HA7tPvA3ZiRJgRrnZCn3cjDIRf/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
-
 ### Week 5: September 14, 2020
 #### This week's focus:  Object Models, Relationships, & Architecture
 
@@ -92,16 +72,6 @@ Use the link below to schedule only when you have submitted your video walkthrou
 3. Day 3 (Wed) - Object Oriented Ruby: Object Architecture (Finish) (4 Lessons)
 4. Day 4 (Thur) - Object Oriented Ruby: Metaprogramming (Mass Assignment Lab) (3 Lessons)
 5. Day 5 (Fri) - Object Oriented Ruby: Metaprogramming (Finish) (2 Lessons)
-
-
-# Study Group Videos and Code
-
-| Topic         | Video         | Code/Other | 
-| ------------- |:-------------:| ----------- | 
-|**Week 5 + 6 **|
-| Object Relationships | [Video](https://drive.google.com/file/d/1Zi3nf6yBMK1vMSi-2FL6h37W59-UWc4_/view?usp=sharing) | | 
-| Accessing Data from Remote Sources(APIs)/Build Pt 1 | [Video](https://drive.google.com/file/d/1f8gfqQl4yVxdjCiJYpXfYUPkMaWpRfFB/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
-| CLI Project Build pt 2 | [Video](https://drive.google.com/file/d/1KW_4S8HA7tPvA3ZiRJgRrnZCn3cjDIRf/view?usp=sharing) | [Code](https://github.com/charneff/cli_demo) |
 
 ### Week 4: September 7, 2020
 #### This week's focus:  Object Models and Relationships
@@ -112,14 +82,6 @@ Use the link below to schedule only when you have submitted your video walkthrou
 4. Day 4 (Thur) - Object Oriented Ruby: Object Relationships (Has Many Object Lab) (4 Lessons)
 5. Day 5 (Fri) - Object Oriented Ruby: Object Relationships (Collaborating Objects Review) (3 Lessons)
 
-
-# Study Group Videos and Code
-
-| Topic         | Video         | Code/Other | 
-| ------------- |:-------------:| ----------- | 
-|**Week 4**|
-| Self + Class Variables/Methods | [Video](https://drive.google.com/file/d/1xRuReKS24veRE3ZhLpEikPrV6JIzNj_I/view?usp=sharing) | | 
-
 ### Week 3: August 31, 2020
 #### This week's focus:  Object Orientation
 
@@ -129,15 +91,6 @@ Use the link below to schedule only when you have submitted your video walkthrou
 4. Day 4 (Thur) - Object’s Self 
 5. Day 5 (Fri) - Class Variables and Methods
 
-
-# Study Group Videos and Code
-
-| Topic         | Video         | Code/Other | Repl/other resources|
-| ------------- |:-------------:| ----------- | ------------------- |
-|**Week 3**|
-| Intro to Object Orientation | [Video](https://drive.google.com/file/d/1k3R0uqJxCxAi-42O0HFeDMFQ6neOEj_k/view?usp=sharing) | | |
-| Object Initialization & Object Properties | [Video](https://drive.google.com/file/d/13nHXdSGhsVwFN-vO_XmUTtBfx-Lmu5rc/view?usp=sharing) | ||
-
 ### Week 2: August 24, 2020
 #### This week's focus:  First Mile (cont.)
 
@@ -146,15 +99,6 @@ Use the link below to schedule only when you have submitted your video walkthrou
 3. Day 3 (Wed) - Iteration Cont’d (Prime? Lab - Sorting Lab) + Hashes (all)
 4. Day 4 (Thur) - Data Structures (all)
 5. Day 5 (Fri) - Intro to object orientation(all) + Classes and instances (all) + Instance Methods (all)
-
-
-# Study Group Videos and Code
-
-| Topic         | Video         | Code/Other | Repl/other resources|
-| ------------- |:-------------:| ----------- | ------------------- |
-|**Week 2**|
-| Arrays & Iterations | [Video](https://drive.google.com/file/d/1K0IJhHasPp-q9Z6_LX6mExKb07U1pH-l/view?usp=sharing) | | [Ruby Array Docs](https://ruby-doc.org/core-2.4.1/Array.html)|
-
 
 ### Week 1: August 17, 2020
 #### This week's focus:  First Mile
