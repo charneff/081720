@@ -53,7 +53,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 ### Week 9: October 12, 2020
 #### This week's focus: SQL
 
-1. Day 1 -  Indigenous People's Day
+1. Day 1 -  Indigenous Peoples' Day
 2. Day 2 - SQL: Topic Introduction, SQL: Getting Started (SQL Databases And Text Editors) (4 lessons)
 3. Day 3 - SQL: Getting Started (Basic SQL Queries) (6 lessons)
 4. Day 4 - SQL: Table Relations (SQL Join Tables) (5 lessons)
