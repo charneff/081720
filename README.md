@@ -41,6 +41,15 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 10: October 19, 2020
+#### This week's focus: ORMs
+
+1. Day 1 - ORMs and ActiveRecord: ORMs (Mapping Classes To Tables Lab) (3 lessons)
+2. Day 2 - ORMs and ActiveRecord: ORMs (Updating Records In An ORM) (3 lessons)
+3. Day 3 - ORMs and ActiveRecord: ORMs (Preventing Record Duplication) (3 lessons)
+4. Day 4 - ORMs and ActiveRecord: ORMs (Dynamic ORM with Inheritance) (3 lessons)
+5. Day 5 - ORMs and ActiveRecord: ORMs (Finish) (4 lessons)
+
 ### Week 9: October 12, 2020
 #### This week's focus: SQL
 
