@@ -9,32 +9,34 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 #### Pairing: 
 #### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: SQL Bear Organizer Lab or SQL Crowdfunding Lab
 
-|     1       |    2   |  3   |
-| ------------- | ---------------| --------------- |
-| Taylor Sieling | Dario Carlino | Aurora Avery |
-| Justice Payne | Hailey Putnam |
-| Mikel Bishop | Haidy Farahat |
-| Tim Flood | Ernyska Methelus |
-| Vicki Mowbray | Corey Martin |
-| Sam Luongo | Jason Markson |
-| Jazmin Matos | Alexandra Oliveros |
-| William Cao | Hector Jimenez |
-| Trey Jennings | Alexander Sanchez |
-| Jack Madden | Oliver Bebber |
-| Kim Aviles | Christopher Williams |
-| Ken Barlow | Haley Grassi |
-| William West | Dominic Barajas |
-| Jevoughn Wisdom | Ashlen Mencia |
-| Preston Davis | Illiana Gallardo |
-| Michael Adkins | Elizabeth Cobb |
-| Russell Doane | Camryn Patterson |
-| Noella Callahan | Christian Pardo |
-| Jeremy Wood | Anthony Hernandez |
-| Theodore Schafer | Brenda Ferrufino |
+|     1       |    2   |
+| ------------- | ---------------| 
+| Trey Jennings | Dominic Barajas |
+| Rwanda S | Ryan Altimari |
 | Jocelyn Ramirez | Janae Quinones |
-| Rosa Carranza | Angelica Brantley |
-| Priscilla Leyva | Areeba Zahir |
-| Teinelle Charles | Ryan Altimari |
+| Noella Callahan | Nikelson Exantus |
+| Vicki Mowbray | Areeba Zahir |
+| Ronald Taylor | Corey Martin |
+| Melissa Sperry | Hector Jimenez |
+| William West | Haidy Farahat |
+| Michael Adkins | Brian Craycraft|
+| Mikel Bishop | Ernsyka Methelus |
+| Nick Bazaldua | Christopher Williams |
+| Jamal Rjoul | Christian Pardo |
+| Theodore Schafer | Camryn Patterson |
+| William Cao | Jason Markson |
+| Russell Doane | Anthony Hernandez |
+| Teinelle Charles | Illiana Gallardo |
+| Jazmin Matos | Hailey Putnam |
+| Kim Aviles | Brenda Ferrufino |
+| Jevoughn Wisdom | Toni Diep |
+| Sam Luongo | Alexandra Oliveros |
+| Ken Barlow | AAangelicaa Brantley |
+| Tim Flood | Dario Carlino |
+| Taylor Sieling | Alex Sanchez |
+| Rosa Carranza | Jack Madden |
+| Jennifer Prince | Elizabeth Cobb |
+| Jeremy Wood | Aurora Avery |
 
 
 ## Any questions or issues please DM me.
