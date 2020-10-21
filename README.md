@@ -124,6 +124,8 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Week 10**|
+| Build an ORM from Scratch | [Video](https://drive.google.com/file/d/1O1DkodLzktJDTkbUGUJwoH1VicJ2Sy6r/view?usp=sharing) | [Slide Show](https://docs.google.com/presentation/d/1wtnaDfF5L5uYqQrjoK8j4O0hXugV2CJ_PaiLphmYXVc/edit#slide=id.p) | 
 |**Week 9**|
 | Intro to SQL | [Video](https://drive.google.com/file/d/1FAy546-JXw3HqXjKGC6HTMFmX-jtNmZ6/view?usp=sharing) | [Slide Show](https://docs.google.com/presentation/d/1Jdf-ZfyNVswxPctlWLEeVo32GY0Aid8uuWINhBPEHsI/edit#slide=id.p) | 
 | Hot Potato SQL Bear Organizer | [Video](https://www.youtube.com/watch?v=hHq1yRhhZl8&feature=youtu.be) |  | 
