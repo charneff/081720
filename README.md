@@ -43,6 +43,15 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 11: October 26, 2020
+#### This week's focus: ORMs
+
+1. Day 1 -  ORMs and ActiveRecord: ActiveRecord (Intro to Rake) (3 Lessons)
+2. Day 2 - ORMs and ActiveRecord: ActiveRecord (Migration and Active Record Lab) (3 Lessons)
+3. Day 3 - ORMs and ActiveRecord: ActiveRecord (Finish) (2 Lessons)
+4. Day 4 - ORMs and ActiveRecord: Associations (ActiveRecord Associations Lab) (2 Lessons)
+5. Day 5 - ORMs and ActiveRecord: Associations (Finish) (5 Lessons)
+
 ### Week 10: October 19, 2020
 #### This week's focus: ORMs
 
