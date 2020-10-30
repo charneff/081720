@@ -134,6 +134,7 @@ Use the link below to schedule only when you have submitted your video walkthrou
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
 |**Week 11**|
+| ActiveRecord Associations | [Video](https://drive.google.com/file/d/1JOUDAnJDoocTaTSW1USZbm7-9xWyo7gS/view?usp=sharing) | [Docs](https://apidock.com/rails/ActiveRecord/Associations/ClassMethods/) | 
 | Intro to ActiveRecord | [Video](https://drive.google.com/file/d/1kvGl-DeS0Fr8sgEpYOX71rasv8fHOO6F/view?usp=sharing) | [Docs](https://guides.rubyonrails.org/active_record_basics.html) | 
 |**Week 10**|
 | Build an ORM from Scratch | [Video](https://drive.google.com/file/d/1O1DkodLzktJDTkbUGUJwoH1VicJ2Sy6r/view?usp=sharing) | [Slide Show](https://docs.google.com/presentation/d/1wtnaDfF5L5uYqQrjoK8j4O0hXugV2CJ_PaiLphmYXVc/edit#slide=id.p) | 
