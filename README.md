@@ -7,37 +7,28 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
 #### Pairing: 
-#### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: Advanced Finding Lab, Active Record Associations Lab or Lab 2.
+#### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: Sinatra Basic.
 
-|     1       |    2   |
-| ------------- | ---------------| 
-| Trey Jennings | Dominic Barajas |
-| Rwanda S | Ryan Altimari |
-| Jocelyn Ramirez | Janae Quinones |
-| Noella Callahan | Nikelson Exantus |
-| Vicki Mowbray | Areeba Zahir |
-| Ronald Taylor | Corey Martin |
-| Melissa Sperry | Hector Jimenez |
-| William West | Haidy Farahat |
-| Michael Adkins | Brian Craycraft|
-| Mikel Bishop | Ernsyka Methelus |
-| Nick Bazaldua | Christopher Williams |
-| Jamal Rjoul | Christian Pardo |
-| Theodore Schafer | Camryn Patterson |
-| William Cao | Jason Markson |
-| Russell Doane | Anthony Hernandez |
-| Teinelle Charles | Illiana Gallardo |
-| Jazmin Matos | Hailey Putnam |
-| Kim Aviles | Brenda Ferrufino |
-| Jevoughn Wisdom | Toni Diep |
-| Sam Luongo | Alexandra Oliveros |
-| Ken Barlow | Angelica Brantley |
-| Tim Flood | Dario Carlino |
-| Taylor Sieling | Alex Sanchez |
-| Rosa Carranza | Jack Madden |
-| Jennifer Prince | Elizabeth Cobb |
-| Jeremy Wood | Aurora Avery |
-
+|     1      |     2    |     3    |
+| ------------- | ---------------|  ---------------|
+| Jamal Rjoul | Dominic Barajas | Elizabeth Cobb |
+| Kimberly Aviles | Corey Martin | |
+| Jack Madden | Illiana Gallardo | |
+| Tim Flood | Brian Craycraft | |
+| Melissa Sperry | Dario Carlino | |
+| Nick Bazaldua	| Alexander Sanchez | |
+| Ronald Taylor	| Jason Markson | |
+| Rwanda S | Haidy Farahat | |
+| Jazmin Matos | Ryan Altimari | |
+| Ken Barlow | Brenda Ferrufino | |
+| Mikel Bishop | Hector Jimenez | |
+| Theodore Schafer | Toni Diep | |
+| Trey Jennings | Nikelson Exantus | |
+| Jeremy Wood | Christopher Williams | |
+| William West | Christian Pardo | |
+| Sam Luongo | Angelica Brantley | |
+| Jennifer Prince | Janae Quinones | |
+| Taylor Sieling | Jocelyn Ramirez | |	
 
 ## Any questions or issues please DM me.
 
@@ -50,9 +41,6 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 3. Day 3 - Sinatra: Sinatra Basics (Sinatra Basics) (1 Lessons)
 4. Day 4 - Sinatra: Sinatra Basics (Sinatra “Hello World” Lab) (2 Lessons)
 5. Day 5 - Sinatra: Sinatra Basics (Finish) (2 Lessons)
-
-
-
 
 ### Week 11: October 26, 2020
 #### This week's focus: ActiveRecord
