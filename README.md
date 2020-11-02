@@ -31,7 +31,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Kim Aviles | Brenda Ferrufino |
 | Jevoughn Wisdom | Toni Diep |
 | Sam Luongo | Alexandra Oliveros |
-| Ken Barlow | AAangelicaa Brantley |
+| Ken Barlow | Angelica Brantley |
 | Tim Flood | Dario Carlino |
 | Taylor Sieling | Alex Sanchez |
 | Rosa Carranza | Jack Madden |
@@ -43,8 +43,19 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 12: November 2, 2020
+#### This week's focus: Sinarta Basics
+1. Day 1 -  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
+2. Day 2 - Sinatra: Sinatra Basics (Sinatra From Scratch) (1 Lessons)
+3. Day 3 - Sinatra: Sinatra Basics (Sinatra Basics) (1 Lessons)
+4. Day 4 - Sinatra: Sinatra Basics (Sinatra “Hello World” Lab) (2 Lessons)
+5. Day 5 - Sinatra: Sinatra Basics (Finish) (2 Lessons)
+
+
+
+
 ### Week 11: October 26, 2020
-#### This week's focus: ORMs
+#### This week's focus: ActiveRecord
 
 1. Day 1 -  ORMs and ActiveRecord: ActiveRecord (Intro to Rake) (3 Lessons)
 2. Day 2 - ORMs and ActiveRecord: ActiveRecord (Migration and Active Record Lab) (3 Lessons)
