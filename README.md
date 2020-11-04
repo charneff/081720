@@ -132,6 +132,8 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Week 12**|
+| Intro to Rack + Sinatra | [Video](https://drive.google.com/file/d/1qqYymmRBhnV9uM4naTYO_kOjFaigliq1/view?usp=sharing) | [Docs](https://github.com/sinatra/sinatra/blob/master/lib/sinatra/base.rb) | 
 |**Week 11**|
 | ActiveRecord Associations | [Video](https://drive.google.com/file/d/1JOUDAnJDoocTaTSW1USZbm7-9xWyo7gS/view?usp=sharing) | [Docs](https://apidock.com/rails/ActiveRecord/Associations/ClassMethods/) | 
 | Intro to ActiveRecord | [Video](https://drive.google.com/file/d/1kvGl-DeS0Fr8sgEpYOX71rasv8fHOO6F/view?usp=sharing) | [Docs](https://guides.rubyonrails.org/active_record_basics.html) | 
