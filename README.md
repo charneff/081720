@@ -36,6 +36,15 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 ### Week 12: November 2, 2020
 #### This week's focus: Sinarta Basics
+1. Day 1 - Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
+2. Day 2 - Sinatra: MVC And Forms (Finish), Sinatra: Forms (Intro To Capybara Tests) (4 Lessons)
+3. Day 3 - Sinatra: Forms (Basic Sinatra Forms Lab) (5 Lessons)
+4. Day 4 - Sinatra: Forms (Sinatra Basic Forms Lab) (4 Lessons)
+5. Day 5 - Sinatra: Forms (Finish) (4 Lessons)
+
+
+### Week 12: November 2, 2020
+#### This week's focus: Sinarta Basics
 1. Day 1 -  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
 2. Day 2 - Sinatra: Sinatra Basics (Sinatra From Scratch) (1 Lessons)
 3. Day 3 - Sinatra: Sinatra Basics (Sinatra Basics) (1 Lessons)
