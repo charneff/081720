@@ -43,13 +43,13 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 5. Day 5 - Sinatra: Forms (Finish) (4 Lessons)
 
 #### By the end of this week, you should be able to:
-Build a basic form and a corresponding route to accept data from the form
-Define Sinatra routes using RESTful conventions
-Implement basic CRUD actions in Sinatra using ActiveRecord
-Add log in/sign up/log out functionality to a Sinatra app
-Use bcrypt to store passwords securely in the db and authenticate them upon login
-Create a Sinatra application that utilizes a Join table
-Use multiple controllers in a Sinatra application
+- Build a basic form and a corresponding route to accept data from the form
+- Define Sinatra routes using RESTful conventions
+- Implement basic CRUD actions in Sinatra using ActiveRecord
+- Add log in/sign up/log out functionality to a Sinatra app
+- Use bcrypt to store passwords securely in the db and authenticate them upon login
+- Create a Sinatra application that utilizes a Join table
+- Use multiple controllers in a Sinatra application
 
 
 
