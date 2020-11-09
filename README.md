@@ -35,12 +35,22 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 # Weekly Assignments
 
 ### Week 12: November 2, 2020
-#### This week's focus: Sinarta Basics
+#### This week's focus: Sinarta MVC & Forms
 1. Day 1 - Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
 2. Day 2 - Sinatra: MVC And Forms (Finish), Sinatra: Forms (Intro To Capybara Tests) (4 Lessons)
 3. Day 3 - Sinatra: Forms (Basic Sinatra Forms Lab) (5 Lessons)
 4. Day 4 - Sinatra: Forms (Sinatra Basic Forms Lab) (4 Lessons)
 5. Day 5 - Sinatra: Forms (Finish) (4 Lessons)
+
+#### By the end of this week, you should be able to:
+Build a basic form and a corresponding route to accept data from the form
+Define Sinatra routes using RESTful conventions
+Implement basic CRUD actions in Sinatra using ActiveRecord
+Add log in/sign up/log out functionality to a Sinatra app
+Use bcrypt to store passwords securely in the db and authenticate them upon login
+Create a Sinatra application that utilizes a Join table
+Use multiple controllers in a Sinatra application
+
 
 
 ### Week 12: November 2, 2020
