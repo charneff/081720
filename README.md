@@ -51,8 +51,6 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 - Create a Sinatra application that utilizes a Join table
 - Use multiple controllers in a Sinatra application
 
-
-
 ### Week 12: November 2, 2020
 #### This week's focus: Sinarta Basics
 1. Day 1 -  Sinatra: Sinatra Basics (What is Sinatra) (1 Lessons)
@@ -151,6 +149,8 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Week 13**|
+| Intro to REST, MVC, & Forms | [Video](https://drive.google.com/file/d/11DM3Pgm1EkC_IW7Y5FNZZUd6sQQhj_B-/view?usp=sharing) | [Code](https://github.com/charneff/movie_app) | 
 |**Week 12**|
 | Intro to Rack + Sinatra | [Video](https://drive.google.com/file/d/1qqYymmRBhnV9uM4naTYO_kOjFaigliq1/view?usp=sharing) | [Docs](https://github.com/sinatra/sinatra/blob/master/lib/sinatra/base.rb) | 
 |**Week 11**|
