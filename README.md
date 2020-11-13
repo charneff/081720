@@ -34,7 +34,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
-### Week 12: November 2, 2020
+### Week 13: November 9, 2020
 #### This week's focus: Sinarta MVC & Forms
 1. Day 1 - Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
 2. Day 2 - Sinatra: MVC And Forms (Finish), Sinatra: Forms (Intro To Capybara Tests) (4 Lessons)
