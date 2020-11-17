@@ -34,6 +34,15 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 14: November 16, 2020
+#### This week's focus: Sessions and ActiveRecord
+1. Day 1 -  Sinatra: Sessions (4 Lessons)
+2. Day 2 - Sinatra: ActiveRecord (Sinatra Sessions Lab- User Logins) (5 Lessons)
+3. Day 3 - Sinatra: ActiveRecord (Sinatra RESTful Routes Lab) (5 Lessons)
+4. Day 4 - Sinatra: ActiveRecord (Finish) (5 Lessons)
+5. Day 5 - Sinatra Project Mode: Fwitter (1 Lessons)
+
+
 ### Week 13: November 9, 2020
 #### This week's focus: Sinarta MVC & Forms
 1. Day 1 - Sinatra: MVC And Forms (Sinatra Basic Views Lab) (4 Lessons)
