@@ -7,7 +7,7 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
 #### Pairing: 
-#### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, any of these labs would be great for pairing: Sinatra Nested Forms Lab (either).
+#### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, Fwitter would be great for pairing.
 
 |     1      |     2    |     3    |
 | ------------- | ---------------|  ---------------|
@@ -155,6 +155,8 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Week 14**|
+| User Authentication in Sinatra | [Video](https://drive.google.com/file/d/1LJnci5Bc8tXpTKL87LzIzcCg2enwB_Qi/view?usp=sharing) |  | 
 |**Week 13**|
 | Sinatra CRUD | [Video](https://drive.google.com/file/d/11eTCdoYLexohMOqAWN-fL9Z4YTSodYXa/view?usp=sharing) |  | 
 | Intro to REST, MVC, & Forms | [Video](https://drive.google.com/file/d/11DM3Pgm1EkC_IW7Y5FNZZUd6sQQhj_B-/view?usp=sharing) | [Code](https://github.com/charneff/movie_app) | 
