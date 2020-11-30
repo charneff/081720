@@ -6,33 +6,16 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 ## Your Educational Coach: 
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
-#### Pairing: 
-#### Message your assigned partner on slack to find a time that works best for both of you to pair up for about 30 minutes. Don't be shy about reaching out! This week, Fwitter would be great for pairing.
-
-|     1      |     2    |     3    |
-| ------------- | ---------------|  ---------------|
-| Jamal Rjoul | Dominic Barajas | Elizabeth Cobb |
-| Kimberly Aviles | Corey Martin | |
-| Jack Madden | Illiana Gallardo | |
-| Tim Flood | Brian Craycraft | |
-| Melissa Sperry | Dario Carlino | |
-| Nick Bazaldua	| Alexander Sanchez | |
-| Ronald Taylor	| Jason Markson | |
-| Rwanda S | Haidy Farahat | |
-| Jazmin Matos | Ryan Altimari | |
-| Ken Barlow | Brenda Ferrufino | |
-| Mikel Bishop | Hector Jimenez | |
-| Theodore Schafer | Toni Diep | |
-| Trey Jennings | Nikelson Exantus | |
-| Jeremy Wood | Christopher Williams | |
-| William West | Christian Pardo | |
-| Sam Luongo | Angelica Brantley | |
-| Jennifer Prince | Janae Quinones | |
-| Taylor Sieling | Jocelyn Ramirez | |	
 
 ## Any questions or issues please DM me.
 
 # Weekly Assignments
+
+
+### Week 15 + 16
+#### This week's focus: Sinatra Project Build
+Once you have submitted the project, blog and video, use the link below to schedule an assessment but you MUST NOT schedule until you have actually already submitted all three! 
+Booking Link: https://go.oncehub.com/StructuredProgramSinatraProjectReviews
 
 ### Week 14: November 16, 2020
 #### This week's focus: Sessions and ActiveRecord
