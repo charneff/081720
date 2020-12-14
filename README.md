@@ -11,6 +11,14 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 17
+#### This week's focus: Intro to Rails
+1. Day 1 -  Rails: Introduction to Rails (Rails MVC) (3 Lessons)
+2. Day 2 - Rails: Introduction to Rails (Finish) (3 Lessons)
+3. Day 3 - Rails: Model Basics (2 Lessons)
+4. Day 4 - Rails: Intro to REST (RESTful Action Index Lab) (2 Lessons)
+5. Day 5 - Rails: Intro to REST (Finish) (2 Lessons)
+
 
 ### Week 15 + 16
 #### This week's focus: Sinatra Project Build
