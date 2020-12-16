@@ -11,7 +11,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
-### Week 17
+### Week 17: December 14, 2020
 #### This week's focus: Intro to Rails
 1. Day 1 -  Rails: Introduction to Rails (Rails MVC) (3 Lessons)
 2. Day 2 - Rails: Introduction to Rails (Finish) (3 Lessons)
