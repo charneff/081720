@@ -146,6 +146,8 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Week 17**|
+| Intro to Rails | [Video](https://drive.google.com/file/d/13ZZ66kn1wTspLTvlQ7FgYJn8KiWdXAd9/view?usp=sharing) | |
 |**Week 14**|
 | User Authentication in Sinatra | [Video](https://drive.google.com/file/d/1LJnci5Bc8tXpTKL87LzIzcCg2enwB_Qi/view?usp=sharing) |  | 
 |**Week 13**|
