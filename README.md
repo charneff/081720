@@ -11,6 +11,15 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 # Weekly Assignments
 
+### Week 18: December 21, 2020
+#### This week's focus: Rails CRUD
+1. Day 1 -  Rails: Intro to ActionView (4 Lessons)
+2. Day 2 - Rails: CRUD with Rails (Index, Show, New, Create Lab) (3 Lessons)
+3. Day 3 - Rails: CRUD with Rails (Strong Params Basics) (3 Lessons)
+4. Day 4 - Rails: CRUD with Rails (Rails Generators) (3 Lessons)
+5. Day 5 - Rails: CRUD with Rails (Finish) (3 Lessons)
+
+
 ### Week 17: December 14, 2020
 #### This week's focus: Intro to Rails
 1. Day 1 -  Rails: Introduction to Rails (Rails MVC) (3 Lessons)
