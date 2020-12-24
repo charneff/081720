@@ -155,6 +155,8 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Week 18**|
+| Rails CRUD | [Video](https://drive.google.com/file/d/1yS_VDPh3H3MSGfVCGVyFy1ozLaqZYZ63/view?usp=sharing) | |
 |**Week 17**|
 | Intro to Rails | [Video](https://drive.google.com/file/d/10bLhvSDWNTUj3tJ9nNcq7FXZYM3var3E/view?usp=sharing) | |
 |**Week 14**|
