@@ -6,6 +6,10 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 ## Your Educational Coach: 
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
+## Pair Programming Assignments
+| 1      | 2       | 3|
+| ------------- | ------------- | ----------- |
+
 
 ## Any questions or issues please DM me.
 
