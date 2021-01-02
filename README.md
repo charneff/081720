@@ -9,6 +9,25 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 ## Pair Programming Assignments
 | 1      | 2       | 3|
 | ------------- | ------------- | ----------- |
+| Simo Khouili | Jack Madden | Kevin Hayden |
+| Jamal Rjoul | Janae Quinones |
+| Steve Womble | Toni Diep |
+| Trey Jennings | Marvin Reyes |
+| Jason E Markson | Nick Bazaldua |
+| Angelica Brantley | Liza Tillman |
+| William West | Jocelyn Ramirez |
+| Elizabeth Cobb | Illiana Gallardo |
+| Rwanda S | Jazmin Matos |
+| Kimberly Aviles | Christian Pardo |
+| Ryan Altimari | Dario Carlino |
+| Ginelle Plaisir | Taylor Sieling |
+| Alexander Sanchez | Ken Barlow |
+| Brenda Ferrufino | Steve Carter |
+| sam luongo | Dominic Barajas |
+| Haidy Farahat | Mikel Bishop |
+| Ethan Lehman | Gage Morgan |
+| Jennifer Prince | Jeremy Wood |
+| Corey Martin | Travis Gandy |
 
 
 ## Any questions or issues please DM me.
