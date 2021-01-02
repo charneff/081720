@@ -10,6 +10,13 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 ## Any questions or issues please DM me.
 
 # Weekly Assignments
+### Week 19: January 4, 2021
+Day 1 -  Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
+Day 2 - Rails: Validations and Forms (Validations With Form_for) (3 Lessons)
+Day 3 - Rails: Validations and Forms (Finish) (3 Lessons)
+Day 4 - Rails: Associations and Rails (ActiveRecord Lifecycle Methods) (3 Lessons)
+Day 5 - Rails: Associations and Rails (Forms And Basic Associations Lab) (4 Lessons)
+
 
 ### Week 18: December 21, 2020
 #### This week's focus: Rails CRUD
