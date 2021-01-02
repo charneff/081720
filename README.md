@@ -7,7 +7,9 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
 ## Pair Programming Assignments
-| 1      | 2       | 3|
+### CRUD with Validations || Has Many Through in Forms Lab
+
+| 1      | 2       | 3   |
 | ------------- | ------------- | ----------- |
 | Simo Khouili | Jack Madden | Kevin Hayden |
 | Jamal Rjoul | Janae Quinones |
