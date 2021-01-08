@@ -189,6 +189,7 @@ Use the link below to schedule only when you have submitted your video walkthrou
 | ------------- |:-------------:| ----------- |
 |**Week 19**|
 | Rails Validations | [Video](https://drive.google.com/file/d/1pYgtT4gdItQ3mGYf-wrQ2vEvrIOhuVyo/view?usp=sharing) | |
+| Rails Associations and Nested Forms | [Video](https://drive.google.com/file/d/1ddpWwr__8A_vWKHj8Y5vR8kmkhN5d3Ij/view?usp=sharing) | |
 |**Week 18**|
 | Rails CRUD | [Video](https://drive.google.com/file/d/1yS_VDPh3H3MSGfVCGVyFy1ozLaqZYZ63/view?usp=sharing) | |
 |**Week 17**|
