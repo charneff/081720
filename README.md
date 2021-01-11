@@ -9,9 +9,9 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 ## Pair Programming Assignments
 ### CRUD with Validations || Has Many Through in Forms Lab
 
-| 1      | 2       | 3   |
-| ------------- | ------------- | ----------- |
-| Simo Khouili | Jack Madden | Kevin Hayden |
+| 1      | 2       | 
+| ------------- | ------------- | 
+| Simo Khouili | Jack Madden | 
 | Jamal Rjoul | Janae Quinones |
 | Steve Womble | Toni Diep |
 | Trey Jennings | Marvin Reyes |
@@ -25,7 +25,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Ginelle Plaisir | Taylor Sieling |
 | Alexander Sanchez | Ken Barlow |
 | Brenda Ferrufino | Steve Carter |
-| sam luongo | Dominic Barajas |
+| Kevin Hayden | Dominic Barajas |
 | Haidy Farahat | Mikel Bishop |
 | Ethan Lehman | Gage Morgan |
 | Jennifer Prince | Jeremy Wood |
@@ -33,6 +33,14 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 
 ## Any questions or issues please DM me.
+
+### Week 20: January 11, 2021
+1. Day 1 -  Rails: Associations and Rails (Basic Nested Forms Lab) (2 Lessons)
+2. Day 2 - Rails: Associations and Rails (Displaying Has Many Through Lab) (2 Lessons)
+3. Day 3 - Rails: Associations and Rails (Finish) (4 Lessons)
+4. Day 4 - Rails: Layouts and Partials (Layouts And Templates In Rails Lab) (2 Lessons)
+5. Day 5 - Rails: Layouts and Partials (Finish) (4 Lessons)
+
 
 # Weekly Assignments
 ### Week 19: January 4, 2021
