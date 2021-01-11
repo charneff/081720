@@ -34,22 +34,23 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 ## Any questions or issues please DM me.
 
+# Weekly Assignments
+
 ### Week 20: January 11, 2021
+#### This week's focus: Rails Associations (cont.) + Layouts & Partials
 1. Day 1 -  Rails: Associations and Rails (Basic Nested Forms Lab) (2 Lessons)
 2. Day 2 - Rails: Associations and Rails (Displaying Has Many Through Lab) (2 Lessons)
 3. Day 3 - Rails: Associations and Rails (Finish) (4 Lessons)
 4. Day 4 - Rails: Layouts and Partials (Layouts And Templates In Rails Lab) (2 Lessons)
 5. Day 5 - Rails: Layouts and Partials (Finish) (4 Lessons)
 
-
-# Weekly Assignments
 ### Week 19: January 4, 2021
+#### This week's focus: Rails Validations + Associations
 1. Day 1 - Rails: Validations and Forms (Validations In Controller Actions Lab) (4 Lessons)
 2. Day 2 - Rails: Validations and Forms (Validations With Form_for) (3 Lessons)
 3. Day 3 - Rails: Validations and Forms (Finish) (3 Lessons)
 4. Day 4 - Rails: Associations and Rails (ActiveRecord Lifecycle Methods) (3 Lessons)
 5. Day 5 - Rails: Associations and Rails (Forms And Basic Associations Lab) (4 Lessons)
-
 
 ### Week 18: December 21, 2020
 #### This week's focus: Rails CRUD
