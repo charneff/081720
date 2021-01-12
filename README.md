@@ -7,7 +7,7 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
 ## Pair Programming Assignments
-### CRUD with Validations || Has Many Through in Forms Lab
+### Displaying Has Many Through Lab
 
 | 1      | 2       | 
 | ------------- | ------------- | 
