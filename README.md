@@ -196,6 +196,8 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Week 20**|
+| Rails Layouts, Partials, & Helpers | [Video](https://www.youtube.com/watch?v=M5SkirQYpp0&feature=youtu.be)| |
 |**Week 19**|
 | Rails Validations | [Video](https://drive.google.com/file/d/1pYgtT4gdItQ3mGYf-wrQ2vEvrIOhuVyo/view?usp=sharing) | |
 | Rails Associations and Nested Forms | [Video](https://drive.google.com/file/d/1ddpWwr__8A_vWKHj8Y5vR8kmkhN5d3Ij/view?usp=sharing) | |
