@@ -15,10 +15,9 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Jamal Rjoul | Janae Quinones |
 | Steve Womble | Toni Diep |
 | Trey Jennings | Marvin Reyes |
-| Jason E Markson | Nick Bazaldua |
+| Jason E Markson | Elizabeth Cobb |
 | Angelica Brantley | Liza Tillman |
 | William West | Jocelyn Ramirez |
-| Elizabeth Cobb | Illiana Gallardo |
 | Rwanda S | Jazmin Matos |
 | Kimberly Aviles | Christian Pardo |
 | Ryan Altimari | Dario Carlino |
@@ -35,6 +34,16 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 ## Any questions or issues please DM me.
 
 # Weekly Assignments
+
+### Week 21: January 18, 2021
+#### This week's focus: Helpers and Routing
+
+Day 1 - Martin Luther King Jr. day
+Day 2 - Rails: Refactoring with Helpers and Model Methods (5 Lessons)
+Day 3 - Rails: Routes and Resources (Routing And Nested Resources Lab) (2 Lessons)
+Day 4 - Rails: Routes and Resources (Modifying Nested Resources Lab) (2 Lessons)
+Day 5 - Rails: Routes and Resources (Finish) (2 Lessons)
+
 
 ### Week 20: January 11, 2021
 #### This week's focus: Rails Associations (cont.) + Layouts & Partials
