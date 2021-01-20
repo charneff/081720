@@ -205,6 +205,8 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+|**Week 21**|
+| Routing in Rails - Nested Routes | [Video](https://drive.google.com/file/d/1Fzdm63A4HjnnhqjOiKBEYZsHMbbShPU9/view?usp=sharing)| |
 |**Week 20**|
 | Rails Layouts, Partials, & Helpers | [Video](https://www.youtube.com/watch?v=M5SkirQYpp0&feature=youtu.be)| |
 |**Week 19**|
