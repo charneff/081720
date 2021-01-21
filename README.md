@@ -38,11 +38,11 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 ### Week 21: January 18, 2021
 #### This week's focus: Helpers and Routing
 
-Day 1 - Martin Luther King Jr. day
-Day 2 - Rails: Refactoring with Helpers and Model Methods (5 Lessons)
-Day 3 - Rails: Routes and Resources (Routing And Nested Resources Lab) (2 Lessons)
-Day 4 - Rails: Routes and Resources (Modifying Nested Resources Lab) (2 Lessons)
-Day 5 - Rails: Routes and Resources (Finish) (2 Lessons)
+1. Day 1 - Martin Luther King Jr. day
+2. Day 2 - Rails: Refactoring with Helpers and Model Methods (5 Lessons)
+3. Day 3 - Rails: Routes and Resources (Routing And Nested Resources Lab) (2 Lessons)
+4. Day 4 - Rails: Routes and Resources (Modifying Nested Resources Lab) (2 Lessons)
+5. Day 5 - Rails: Routes and Resources (Finish) (2 Lessons)
 
 
 ### Week 20: January 11, 2021
