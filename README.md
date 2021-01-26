@@ -7,7 +7,7 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
 ## Pair Programming Assignments
-### Displaying Has Many Through Lab
+### Rails Amusement Park
 
 | 1      | 2       | 
 | ------------- | ------------- | 
@@ -34,6 +34,16 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 ## Any questions or issues please DM me.
 
 # Weekly Assignments
+
+### Week 22: January 25, 2021
+#### This week's focus: Authentication
+
+1. Day 1 -  Rails: Authentication (Cookies And Sessions Lab) (3 Lessons)
+2. Day 2 - Rails: Authentication (Login Required Lab) (4 Lessons)
+3. Day 3 - Rails: Authentication (Video Review: Authentication) (3 Lessons)
+4. Day 4 - Rails: Authentication (Omniauth Lab) (3 Lessons)
+5. Day 5 - Rails: Authentication (Finish), Rails: Popular Gems (3 Lessons)
+
 
 ### Week 21: January 18, 2021
 #### This week's focus: Helpers and Routing
