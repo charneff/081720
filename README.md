@@ -217,6 +217,7 @@ Use the link below to schedule only when you have submitted your video walkthrou
 | ------------- |:-------------:| ----------- |
 |**Week 22**|
 | Rails Authentication (Omniauth) | [Video](https://drive.google.com/file/d/1tFtzjjIIw7CxQNW_TcF9_11Ap9bPz0kY/view?usp=sharing)| |
+| Rails Portfolio Project Prep | [Video](https://youtu.be/NScd5EhN1a4) | |
 |**Week 21**|
 | Routing in Rails - Nested Routes | [Video](https://drive.google.com/file/d/1Fzdm63A4HjnnhqjOiKBEYZsHMbbShPU9/view?usp=sharing)| |
 |**Week 20**|
