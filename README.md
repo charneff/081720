@@ -9,30 +9,30 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 ## Pair Programming Assignments
 ### Rails Amusement Park
 
-| 1      | 2       | 3 |
-| ------------- | ------------- | 
+| 1      | 2       | 3   |
+| ------------- | ------------- | ------------- |
 | Corey Martin | Jonathan East | Toni Diep |
-| William West | Ginelle Plaisir | 
-| Jason E Markson | Mei Dan Zhu | 
-| Brenda Ferrufino | Samantha Jordan | 
-| Mikel Bishop | Dang Nguyen | 
-| Alexander Sanchez | Celeste Thomas | 
-| Dario Carlino | Kevin Hayden | 
-| Ryan Altimari | Chloe Steffens | 
-| Jeremy Wood | Ifeoluwa Akinremi-Wade |
-| Kimberly Aviles | Travis Gandy | 
-| Christian Pardo | Kaitlin Regan | 
-| Angelica Brantley | Liza Tillman | 
-| Ken Barlow | Gage Morgan | 
-| Haidy Farahat | Steve Carter | 
-| Elizabeth Cobb | Marcus Lau | 
-| Dominic Barajas | Ethan Lehman | 
-| Janae Quinones | Jack Quinoa | 
-| Jocelyn Ramirez | Steve Womble | 
-| Jazmin Matos | Marvin Reyes | 
-| Taylor Sieling | Curtis Pachtinger | 
-| Jack Madden | Simo Khouili | 
-| Trey Jennings | Chaim Bryski | 
+| William West | Ginelle Plaisir | |
+| Jason E Markson | Mei Dan Zhu | |
+| Brenda Ferrufino | Samantha Jordan | |
+| Mikel Bishop | Dang Nguyen | |
+| Alexander Sanchez | Celeste Thomas | | 
+| Dario Carlino | Kevin Hayden | |
+| Ryan Altimari | Chloe Steffens | | 
+| Jeremy Wood | Ifeoluwa Akinremi-Wade | |
+| Kimberly Aviles | Travis Gandy | |
+| Christian Pardo | Kaitlin Regan | |
+| Angelica Brantley | Liza Tillman | |
+| Ken Barlow | Gage Morgan | |
+| Haidy Farahat | Steve Carter | |
+| Elizabeth Cobb | Marcus Lau | |
+| Dominic Barajas | Ethan Lehman | |
+| Janae Quinones | Jack Quinoa | |
+| Jocelyn Ramirez | Steve Womble | | 
+| Jazmin Matos | Marvin Reyes | |
+| Taylor Sieling | Curtis Pachtinger | |
+| Jack Madden | Simo Khouili | |
+| Trey Jennings | Chaim Bryski | | 
 
 
 ## Any questions or issues please DM me.
