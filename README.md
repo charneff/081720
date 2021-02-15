@@ -11,29 +11,37 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 | 1      | 2       | 
 | ------------- | ------------- | 
-| Simo Khouili | Jack Madden | 
-| Jamal Rjoul | Janae Quinones |
-| Steve Womble | Toni Diep |
-| Trey Jennings | Marvin Reyes |
-| Jason E Markson | Elizabeth Cobb |
-| Angelica Brantley | Liza Tillman |
-| William West | Jocelyn Ramirez |
-| Rwanda S | Jazmin Matos |
-| Kimberly Aviles | Christian Pardo |
-| Ryan Altimari | Dario Carlino |
-| Ginelle Plaisir | Taylor Sieling |
-| Alexander Sanchez | Ken Barlow |
-| Brenda Ferrufino | Steve Carter |
-| Kevin Hayden | Dominic Barajas |
-| Haidy Farahat | Mikel Bishop |
-| Ethan Lehman | Gage Morgan |
-| Jennifer Prince | Jeremy Wood |
-| Corey Martin | Travis Gandy |
+| Corey Martin | Jonathan East | Toni Diep |
+| William West | Ginelle Plaisir | 
+| Jason E Markson | Mei Dan Zhu | 
+| Brenda Ferrufino | Samantha Jordan | 
+| Mikel Bishop | Dang Nguyen | 
+| Alexander Sanchez | Celeste Thomas | 
+| Dario Carlino | Kevin Hayden | 
+| Ryan Altimari | Chloe Steffens | 
+| Jeremy Wood | Ifeoluwa Akinremi-Wade |
+| Kimberly Aviles | Travis Gandy | 
+| Christian Pardo | Kaitlin Regan | 
+| Angelica Brantley | Liza Tillman | 
+| Ken Barlow | Gage Morgan | 
+| Haidy Farahat | Steve Carter | 
+| Elizabeth Cobb | Marcus Lau | 
+| Dominic Barajas | Ethan Lehman | 
+| Janae Quinones | Jack Quinoa | 
+| Jocelyn Ramirez | Steve Womble | 
+| Jazmin Matos | Marvin Reyes | 
+| Taylor Sieling | Curtis Pachtinger | 
+| Jack Madden | Simo Khouili | 
+| Trey Jennings | Chaim Bryski | 
 
 
 ## Any questions or issues please DM me.
 
 # Weekly Assignments
+
+### Week 23 + 24 
+#### Rails Project Build
+Once you have submitted your project, blog and video you can use this link https://go.oncehub.com/StructuredProgramRailsProjectReviews to schedule an assessment but you MUST NOT schedule until you have actually already submitted all three!  Do NOT use the link from learn.co. It is for self-paced students. Please reach out to me directly if you have any trouble scheduling!
 
 ### Week 22: January 25, 2021
 #### This week's focus: Authentication
