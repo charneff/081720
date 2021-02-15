@@ -9,7 +9,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 ## Pair Programming Assignments
 ### Rails Amusement Park
 
-| 1      | 2       | 
+| 1      | 2       | 3 |
 | ------------- | ------------- | 
 | Corey Martin | Jonathan East | Toni Diep |
 | William West | Ginelle Plaisir | 
