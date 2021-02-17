@@ -223,6 +223,8 @@ Use the link below to schedule only when you have submitted your video walkthrou
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+| **Week 25** |
+| Intro to DOM | [Video](https://drive.google.com/file/d/1pZmVUHY_b3yifKiKurKOjN4sUE1MKylb/view?usp=sharing)| |
 |**Week 22**|
 | Rails Authentication (Omniauth) | [Video](https://drive.google.com/file/d/1tFtzjjIIw7CxQNW_TcF9_11Ap9bPz0kY/view?usp=sharing)| |
 | Rails Portfolio Project Prep | [Video](https://youtu.be/NScd5EhN1a4) | |
