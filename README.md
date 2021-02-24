@@ -7,7 +7,6 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
 ## Pair Programming Assignments
-### Rails Amusement Park
 
 | 1      | 2       | 3   |
 | ------------- | ------------- | ------------- |
