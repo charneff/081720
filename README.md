@@ -39,6 +39,8 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+| **Week 27** |
+| Async Fetch | [Video](https://drive.google.com/file/d/15XEBWTLuPwFGHzWbQhx0KxmNwpcWErJi/view?usp=sharing) | https://github.com/charneff/js-async-fetch |
 | **Week 26** |
 | JS Events | [Video](https://drive.google.com/file/d/1MvTefFstQ5yoc-CHdAuXpCfjGsgahQih/view?usp=sharing) | https://github.com/charneff/events-intro |
 | **Week 25** |
