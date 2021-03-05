@@ -40,9 +40,10 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
 | **Week 27** |
-| Async Fetch | [Video](https://drive.google.com/file/d/15XEBWTLuPwFGHzWbQhx0KxmNwpcWErJi/view?usp=sharing) | https://github.com/charneff/js-async-fetch |
+| Async Fetch | [Video](https://drive.google.com/file/d/15XEBWTLuPwFGHzWbQhx0KxmNwpcWErJi/view?usp=sharing) | [Code](https://github.com/charneff/js-async-fetch) |
+| Rails as an API | [Video](https://drive.google.com/file/d/1tCU2G-IZyOx_DU9V-ql7dpNks0PK21YL/view?usp=sharing) | [Code](https://github.com/charneff/rails-as-api) |
 | **Week 26** |
-| JS Events | [Video](https://drive.google.com/file/d/1MvTefFstQ5yoc-CHdAuXpCfjGsgahQih/view?usp=sharing) | https://github.com/charneff/events-intro |
+| JS Events | [Video](https://drive.google.com/file/d/1MvTefFstQ5yoc-CHdAuXpCfjGsgahQih/view?usp=sharing) | [Code](https://github.com/charneff/events-intro) |
 | **Week 25** |
 | Intro to DOM | [Video](https://drive.google.com/file/d/1pZmVUHY_b3yifKiKurKOjN4sUE1MKylb/view?usp=sharing)| |
 | JS Fundamentals | [Video](https://drive.google.com/file/d/1wObUO-vXps-Tn8s4XMKCIO2NyxAzkzZx/view?usp=sharing) | |
