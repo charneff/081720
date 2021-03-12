@@ -39,6 +39,8 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+| **Week 28** |
+| Putting It All Together | [Video](https://www.youtube.com/watch?v=9gDuYUO7qQc)| https://github.com/charneff/rails-as-api |
 | **Week 27** |
 | Async Fetch | [Video](https://drive.google.com/file/d/15XEBWTLuPwFGHzWbQhx0KxmNwpcWErJi/view?usp=sharing) | [Code](https://github.com/charneff/js-async-fetch) |
 | Rails as an API | [Video](https://drive.google.com/file/d/1tCU2G-IZyOx_DU9V-ql7dpNks0PK21YL/view?usp=sharing) | [Code](https://github.com/charneff/rails-as-api) |
