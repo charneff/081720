@@ -40,6 +40,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
 | **Week 29** |
+| OO JS | [Video](https://drive.google.com/file/d/1S-NyzaEtsQY4-l7BsGnFQsQHJuM9Solm/view?usp=sharing)| |
 | ES6 | [Video](https://drive.google.com/file/d/1o1YuBi-32_RmbHi-Rfgl5uKIbye6sC6R/view?usp=sharing) | [Code](https://github.com/charneff/es6)| |
 | **Week 28** |
 | Putting It All Together | [Video](https://www.youtube.com/watch?v=9gDuYUO7qQc)| https://github.com/charneff/rails-as-api |
