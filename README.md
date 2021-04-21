@@ -11,24 +11,18 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | 1      | 2       | 3   |
 | ------------- | ------------- | ------------- |
 | Corey Martin | Jonathan East | Toni Diep |
-| William West | Ginelle Plaisir | |
-| Jason E Markson | Mei Dan Zhu | |
-| Brenda Ferrufino | Samantha Jordan | |
+| Toni Diep | Ginelle Plaisir | |
+| Brenda Ferrufino  | Mei Dan Zhu | |
 | Mikel Bishop | Dang Nguyen | |
-| Alexander Sanchez | Celeste Thomas | | 
-| Dario Carlino | Kevin Hayden | |
+| Dario Carlino | Celeste Thomas | | 
 | Ryan Altimari | Chloe Steffens | | 
 | Jeremy Wood | Ifeoluwa Akinremi-Wade | |
-| Kimberly Aviles | Travis Gandy | |
+| Ken Barlow  | Travis Gandy | |
 | Christian Pardo | Kaitlin Regan | |
-| Angelica Brantley | Liza Tillman | |
-| Ken Barlow | Gage Morgan | |
 | Haidy Farahat | Steve Carter | |
 | Elizabeth Cobb | Marcus Lau | |
-| Dominic Barajas | Ethan Lehman | |
+| Dominic Barajas | Jocelyn Ramirez  | |
 | Janae Quinones | Jack Quinoa | |
-| Jocelyn Ramirez | Steve Womble | | 
-| Jazmin Matos | Marvin Reyes | |
 | Taylor Sieling | Curtis Pachtinger | |
 | Jack Madden | Simo Khouili | |
 | Trey Jennings | Chaim Bryski | | 
@@ -39,6 +33,8 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+| **Week 33** |
+| Intro to React and Props | [Video](https://drive.google.com/file/d/1tL7uEQLB2PlqNNv9V255AZtTYpbQ0K6a/view?usp=sharing) | |
 | **Week 30** |
 | OO JS pt 2 | [Video](https://drive.google.com/file/d/1WYJiwtOOQQz0roJC--TLv7O9KK5OEaId/view?usp=sharing) | [Code](https://github.com/charneff/rails-as-api) |
 | **Week 29** |
