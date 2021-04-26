@@ -35,6 +35,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | ------------- |:-------------:| ----------- |
 | **Week 33** |
 | Intro to React and Props | [Video](https://drive.google.com/file/d/1tL7uEQLB2PlqNNv9V255AZtTYpbQ0K6a/view?usp=sharing) | |
+| React State and Events | [Video](https://drive.google.com/file/d/1ceZs1PL9qI99zPw260pUR0_39IPpuil0/view?usp=sharing) | |
 | **Week 30** |
 | OO JS pt 2 | [Video](https://drive.google.com/file/d/1WYJiwtOOQQz0roJC--TLv7O9KK5OEaId/view?usp=sharing) | [Code](https://github.com/charneff/rails-as-api) |
 | **Week 29** |
