@@ -6,33 +6,14 @@ Charlotte Neff - charlotte.neff@flatironschool.com - [Booking Link](https://go.o
 ## Your Educational Coach: 
 Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://valeriejiggetts.youcanbook.me/)
 
-## Pair Programming Assignments
-
-| 1      | 2       | 3   |
-| ------------- | ------------- | ------------- |
-| Corey Martin | Jonathan East | Toni Diep |
-| Toni Diep | Ginelle Plaisir | |
-| Brenda Ferrufino  | Mei Dan Zhu | |
-| Mikel Bishop | Dang Nguyen | |
-| Dario Carlino | Celeste Thomas | | 
-| Ryan Altimari | Chloe Steffens | | 
-| Jeremy Wood | Ifeoluwa Akinremi-Wade | |
-| Ken Barlow  | Travis Gandy | |
-| Christian Pardo | Kaitlin Regan | |
-| Haidy Farahat | Steve Carter | |
-| Elizabeth Cobb | Marcus Lau | |
-| Dominic Barajas | Jocelyn Ramirez  | |
-| Janae Quinones | Jack Quinoa | |
-| Taylor Sieling | Curtis Pachtinger | |
-| Jack Madden | Simo Khouili | |
-| Trey Jennings | Chaim Bryski | | 
-
 
 
 # Study Group Videos and Code
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+| **Week 35** |
+| React Lifecycle Methods | [Video](https://drive.google.com/file/d/1OV7aPagawrNzjH9eslP91tHLc3kgYRHx/view?usp=sharing) | |
 | **Week 34** |
 | React Forms | [Video](https://drive.google.com/file/d/1CnRdeXeya6EMzPxfZdwAsdwZrwnXS3yw/view?usp=sharing) | |
 | **Week 33** |
