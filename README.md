@@ -14,6 +14,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | ------------- |:-------------:| ----------- |
 | **Week 35** |
 | React Lifecycle Methods | [Video](https://drive.google.com/file/d/1OV7aPagawrNzjH9eslP91tHLc3kgYRHx/view?usp=sharing) | |
+| Presentational vs Container Components | [Video](https://drive.google.com/file/d/1QbjiqyR-8qI-WVh2k3kTt3EED3ckPE_-/view?usp=sharing) | |
 | **Week 34** |
 | React Forms | [Video](https://drive.google.com/file/d/1CnRdeXeya6EMzPxfZdwAsdwZrwnXS3yw/view?usp=sharing) | |
 | **Week 33** |
