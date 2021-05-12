@@ -12,6 +12,9 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 
 | Topic         | Video         | Code/Other |
 | ------------- |:-------------:| ----------- |
+| **Week 36** |
+| Client Side Routing | [Video](https://drive.google.com/file/d/1v6p-3zSBx-mTPYRm03VqK0W46WxuSf7J/view?usp=sharing) | |
+| Client Side Routing: error resolution | [Video](https://drive.google.com/file/d/1NXAfTeNHIF-_bfzKcldQZ6Hc8H20n0s1/view?usp=sharing) | |
 | **Week 35** |
 | React Lifecycle Methods | [Video](https://drive.google.com/file/d/1OV7aPagawrNzjH9eslP91tHLc3kgYRHx/view?usp=sharing) | |
 | Presentational vs Container Components | [Video](https://drive.google.com/file/d/1QbjiqyR-8qI-WVh2k3kTt3EED3ckPE_-/view?usp=sharing) | |
