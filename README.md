@@ -14,6 +14,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | ------------- |:-------------:| ----------- |
 | **Week 37** |
 | Intro to Redux | [Video](https://youtu.be/ABiW6opUZsc)| |
+| Cooking with Redux | [Video](https://drive.google.com/file/d/1ej58ws8II3VUXxRa9N0f4oiZ2GbroF7D/view?usp=sharing) | |
 | **Week 36** |
 | Client Side Routing | [Video](https://drive.google.com/file/d/1v6p-3zSBx-mTPYRm03VqK0W46WxuSf7J/view?usp=sharing) | |
 | Client Side Routing: error resolution | [Video](https://drive.google.com/file/d/1NXAfTeNHIF-_bfzKcldQZ6Hc8H20n0s1/view?usp=sharing) | |
