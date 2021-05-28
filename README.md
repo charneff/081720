@@ -14,6 +14,7 @@ Valerie Jiggetts - valerie.jiggetts@flatironschool.com - [Booking Link](https://
 | ------------- |:-------------:| ----------- |
 | **Week 38** |
 | Async Redux | [Video](https://drive.google.com/file/d/1Nvv1r8N4VDjh0l7eKcHbhVBaAc_sex15/view?usp=sharing) | |
+| Optional UseContext | [Video](https://youtu.be/LdYFmvMw3JU) | |
 | **Week 37** |
 | Intro to Redux | [Video](https://youtu.be/ABiW6opUZsc)| |
 | Cooking with Redux | [Video](https://drive.google.com/file/d/1ej58ws8II3VUXxRa9N0f4oiZ2GbroF7D/view?usp=sharing) | |
